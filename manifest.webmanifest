@@ -1,0 +1,14 @@
+{
+  "name": "English 30｜毎日の仕事英語",
+  "short_name": "English 30",
+  "description": "毎日30分・180日間の仕事英語トレーニング",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#142641",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
